@@ -1,0 +1,3 @@
+for await (const resolved of asyncIterable) {
+  console.log("resolved async value:", resolved);
+}
